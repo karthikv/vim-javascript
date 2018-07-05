@@ -291,7 +291,7 @@ if version >= 508 || !exists("did_javascript_syn_inits")
   HiLink jsArguments            Special
   HiLink jsError                Error
   HiLink jsParensError          Error
-  HiLink jsOperatorKeyword      jsOperator
+  HiLink jsOperatorKeyword      Keyword
   HiLink jsOperator             Operator
   HiLink jsOf                   Operator
   HiLink jsStorageClass         StorageClass
